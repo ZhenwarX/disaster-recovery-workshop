@@ -5,7 +5,7 @@ weight: 1
 chapter: true
 pre: "<b></b>"
 ---
-
+xssmezhenwarx
 ## Regional Endpoints
 
 By default, AWS Security Token Service (AWS STS) is available as a global service, and all AWS STS requests go to a single endpoint at https://sts.amazonaws.com. AWS recommends using regional AWS STS endpoints instead of the global endpoint to reduce latency, incorporate redundancy, and increase session token validity.
